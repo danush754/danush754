@@ -57,20 +57,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 🏆 Achievements & Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danush754&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🚀 Featured Projects  
-
-- [**Golang DSA**](https://github.com/yourusername/golang-dsa) → Solving classic data structures and algorithms in Go  
-- [**System Design Notes**](https://github.com/yourusername/system-design-notes) → Preparing for large-scale system design interviews   
-
----
 
 # 📈 Contribution Graph  
 

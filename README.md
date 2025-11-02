@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🏢 Junior Developer with **2 years experience** in a startup  
 - 🔨 Building scalable backend systems with **Golang**  
 - 🌱 Exploring **System Design**, **DSA in Go**  
-- 🎯 Goal: Crack a **Backend Developer Role** in a top MNC 
+- 🎯 Goal: Crack The **Software Engineer II** role in Google Cloud 
 
 ---
 
